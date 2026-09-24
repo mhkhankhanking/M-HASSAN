@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://ibb.co/KWkc3Gw"><img src="https://i.ibb.co/6FxcfZB/ddf604h-fec4abb5-e6b5-4f26-8868-587d1fb0525f.png" alt="whatsapp-botto-rin-init" border="0"></a>
+<a href="https://ibb.co/WWxtJJXs"><img src="https://i.ibb.co/WWxtJJXs/IMG-20260920-WA0002.jpg" alt="whatsapp-botto-rin-init" border="0"></a>
 
-# **SENKU : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
+# **𝐌-𝐇𝐀𝐒𝐒𝐀𝐍 : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/oreki-san/rin/badge)](https://www.codefactor.io/repository/github/oreki-san/rin)
 
